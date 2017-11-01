@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "UIViewController.editMeme(at : Int) -&gt; ():SentMemeExtension.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MemeEditorViewController.viewWillAppear(Bool) -&gt; ():MemeEditorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "editingMeme">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeEditorViewController.load(meme : Meme) -&gt; ():MemeEditorViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MemeViewerVC.editThisMeme() -&gt; ():MemeViewerVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "meme">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemeEditorViewController.viewDidLoad() -&gt; ():MemeEditorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "topField.font.fontName">
+            </PersistentString>
+            <PersistentString
+               value = "editingMeme">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
